@@ -20,7 +20,7 @@ imaging:
   quality: 99
 
 # To disable, set to an extremely large value, such as 999999
-paginate: 9999999
+paginate: 5
 
 params:
   homeMetaContent: Workshop webpage
