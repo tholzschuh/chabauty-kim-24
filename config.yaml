@@ -1,7 +1,7 @@
-baseURL: https://example.com
+baseURL: https://tholzschuh.github.io/chabauty-kim-24
 languageCode: en-us
 defaultContentLanguage: en
-title: PaperCSS
+title: "Chabauty-Kim Workshop 2024"
 theme: papercss-hugo-theme
 googleAnalytics: UA-123456789-1
 disqusShortname: yourdiscussshortname
@@ -20,10 +20,10 @@ imaging:
   quality: 99
 
 # To disable, set to an extremely large value, such as 999999
-paginate: 5
+paginate: 9999999
 
 params:
-  homeMetaContent: A Hugo theme made with PaperCSS, the less formal CSS framework.
+  homeMetaContent: Workshop webpage
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Jan 2, 2006
   navTitleLink: /
