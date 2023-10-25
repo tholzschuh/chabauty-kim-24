@@ -30,7 +30,7 @@ params:
 
 menu:
   nav:
-    - name: Blog
+    - name: Test
       url: /
       weight: 1
     - name: Tags
