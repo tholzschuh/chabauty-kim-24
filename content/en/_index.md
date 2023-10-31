@@ -1,7 +1,7 @@
 ---
 type: 'balloon'
 balloon_img_src: "icons/workshop.svg"
-balloon_img_src_dark: "icons/bookcase_dark.svg"
+balloon_img_src_dark: "icons/workshop.svg"
 balloon_circle: false
 balloon_resources: "/workshop"
 description: "Workshop site"
