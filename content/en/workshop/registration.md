@@ -1,5 +1,5 @@
 ---
-title: 'Registration'
+title: 'Registration & Financial Support'
 weight: 3
 gallery_img_src: 'clock.jpg'
 gallery_img_caption: '<span>Photo by <a href="https://unsplash.com/@oceanng?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Ocean Ng</a> on <a href="https://unsplash.com/s/photos/clock?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>'

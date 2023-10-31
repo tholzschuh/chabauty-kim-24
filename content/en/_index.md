@@ -1,6 +1,6 @@
 ---
 type: 'balloon'
-balloon_img_src: "icons/bookcase.svg"
+balloon_img_src: "icons/workshop.svg"
 balloon_img_src_dark: "icons/bookcase_dark.svg"
 balloon_circle: false
 balloon_resources: "/workshop"
@@ -15,4 +15,4 @@ keywords:
 - programmer-friendly
 ---
 
-Workshop on the non-abelian Chabauty-Kim method.
+# Chabauty-Kim 2024
