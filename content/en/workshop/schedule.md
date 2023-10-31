@@ -12,4 +12,10 @@ gallery_statistic:
   value: '*value3*'
 ---
 
-TODO: insert schedule
+| Time     | Wednesday  | Thursday   | Friday     |
+| -------- | ---------- | ---------- | ---------- | 
+| 08 - 10  | Lecture 1  | Lecture 3  | Research 3 |
+| 10 - 12  | Lecture 2  | Lecture 4  | Research 4 |
+| 12 - 13  | Lunch      | Lunch      | Lunch      |
+| 13 - 15  | Research 1 | Research 2 |            |
+| 15 - 17  |            | Dinner     |            |
