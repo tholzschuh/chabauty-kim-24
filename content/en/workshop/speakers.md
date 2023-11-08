@@ -1,6 +1,6 @@
 ---
-title: 'Registration & Financial Support'
-weight: 4
+title: 'Speakers'
+weight: 2
 gallery_img_src: 'clock.jpg'
 gallery_img_caption: '<span>Photo by <a href="https://unsplash.com/@oceanng?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Ocean Ng</a> on <a href="https://unsplash.com/s/photos/clock?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>'
 gallery_statistic:
@@ -12,4 +12,16 @@ gallery_statistic:
   value: '*value3*'
 ---
 
-TODO: Insert info about registration.
+#### Lectures
+ -  Martin Lüdtke
+ - Steffen Müller*
+
+#### Research Talks
+ - [Netan Dogra](https://sites.google.com/site/netandogra/)
+ - Steffen Müller*
+ - [Michael Stoll](https://www.mathe2.uni-bayreuth.de/stoll/)
+ - [Oana Padurariu](https://sites.google.com/view/oanapadurariu/home)
+ - [Enis Kaya](https://sites.google.com/view/eniskaya/home)
+ - [Stevan Gajović](https://sites.google.com/view/stevan-gajovic/home)*
+
+*: to be confirmed

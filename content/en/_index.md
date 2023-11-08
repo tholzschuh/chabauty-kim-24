@@ -15,4 +15,4 @@ keywords:
 - programmer-friendly
 ---
 
-# Chabauty-Kim 2024
+# Winter Workshop Chabauty-Kim 2024
