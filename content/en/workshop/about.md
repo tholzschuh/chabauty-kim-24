@@ -12,7 +12,7 @@ gallery_statistic:
   value: '*value3*'
 ---
 
-The number of integral points $X(k)$ on a hyperbolic curve $X$ defined over $\mathbb{Q}$ is finite.
+The number of rational points $X(\mathbb{Q})$ on a hyperbolic curve $X$ defined over $\mathbb{Q}$ is finite.
 But how do you find those points?
 
 Minhyong Kim's non-abelian Chabauty method gives a $p$-adic approach to answer this question.
