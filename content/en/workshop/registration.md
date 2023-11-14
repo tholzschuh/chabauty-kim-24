@@ -15,4 +15,4 @@ gallery_statistic:
 Please fill out this [registration form](https://docs.google.com/forms/d/e/1FAIpQLScKeIN0tCSxRKsLiY_9DHVg1ApZc6gSHPRlDFCN9OVzFpGL9Q/viewform?usp=sf_link).
 
 We aim to fund accommodation in double rooms from Tuesday 13th to Friday 16th February for everybody.
-If you need **further** funding, please indicate so by choosing "Yes" in the registration form.
+There is limited funding available for travel expenses, so if you need **further** funding, please indicate so in the form.
