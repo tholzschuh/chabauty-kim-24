@@ -12,10 +12,10 @@ gallery_statistic:
   value: '*value3*'
 ---
 
- -  Martin Lüdtke
- - Steffen Müller*
+ - [Martin Lüdtke](https://www.rug.nl/staff/m.w.ludtke/)
+ - [Steffen Müller](https://www.rug.nl/staff/steffen.muller/)*
  - [Netan Dogra](https://sites.google.com/site/netandogra/)*
- - [Michael Stoll](https://www.mathe2.uni-bayreuth.de/stoll/)*
+ - [Michael Stoll](https://www.mathe2.uni-bayreuth.de/stoll/)
  - [Oana Padurariu](https://sites.google.com/view/oanapadurariu/home)
  - [Enis Kaya](https://sites.google.com/view/eniskaya/home)
  - [Stevan Gajović](https://sites.google.com/view/stevan-gajovic/home)
