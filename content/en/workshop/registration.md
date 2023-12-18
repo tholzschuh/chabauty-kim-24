@@ -13,5 +13,4 @@ gallery_statistic:
 ---
 
 The deadline for registration was 10/12/2023.
-If you would still like to join, please fill out this [registration form](https://docs.google.com/forms/d/e/1FAIpQLScKeIN0tCSxRKsLiY_9DHVg1ApZc6gSHPRlDFCN9OVzFpGL9Q/viewform?usp=sf_link).
-Bear in mind though that we might not be able to provide you with an accommodation anymore.
+If you would still like to participate, send us an email to *workshop-chabauty[at]mathi.uni-heidelberg.de*.
