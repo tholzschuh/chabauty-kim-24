@@ -12,6 +12,7 @@ gallery_statistic:
   value: '*value3*'
 ---
 
+ - [David Corwin](http://math.berkeley.edu/~dcorwin/)
  - [Netan Dogra](https://sites.google.com/site/netandogra/)
  - [Stevan Gajović](https://sites.google.com/view/stevan-gajovic/home)
  - [Enis Kaya](https://sites.google.com/view/eniskaya/home)
