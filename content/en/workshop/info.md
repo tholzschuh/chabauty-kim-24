@@ -16,4 +16,6 @@ gallery_statistic:
 
 **Place:** Heidelberg University, Germany
 
+**Room:** Konferenzraum, 5th floor @ Mathematikon
+
 **Organisers:** Marius Leonhardt, Tim Holzschuh
