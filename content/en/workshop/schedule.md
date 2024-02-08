@@ -1,5 +1,5 @@
 ---
-title: 'Preliminary Schedule'
+title: 'Schedule'
 weight: 4
 gallery_img_src: 'clock.jpg'
 gallery_img_caption: '<span>Photo by <a href="https://unsplash.com/@oceanng?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Ocean Ng</a> on <a href="https://unsplash.com/s/photos/clock?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>'
@@ -12,6 +12,38 @@ gallery_statistic:
   value: '*value3*'
 ---
 
-- Tuesday 13/02/2024 evening: (suggested) arrival
-- Wednesday 14/02/2024 morning - Friday 16/02/2024 early afternoon: workshop talks
-- Thursday 15/02/2024 evening: workshop dinner at [Vetters](https://www.brauhaus-vetter.de/en)
+##### Wednesday
+
+| Time           |                                                       | 
+| -------------- | ----------------------------------------------------- |  
+| 09:30 - 10:30  | **Martin Lüdtke**: *Foundations of Chabauty--Kim I*   | 
+| 10:30 - 11:00  | Coffee break                                          |
+| 11:00 - 12:00  | **Martin Lüdtke**: *Foundations of Chabauty--Kim II*  | 
+| 12:00 - 15:00  | Lunch + Discussions                                   | 
+| 15:00 - 16:00  | Exercise Session                                      | 
+| 16:00 - 16:30  | Coffee break                                          |
+| 16:30 - 17:30  | **Michael Stoll**: *Selmer Group Chabauty*            | 
+
+##### Thursday
+
+| Time                |                                                                                                      | 
+| ------------------- | ---------------------------------------------------------------------------------------------------- |  
+| 09:30 - 10:30       | **Steffen Müller**: *Algorithmic Aspects I*                                                          | 
+| 10:30 - 11:00       | Coffee break                                                                                         |
+| 11:00 - 12:00       | **Steffen Müller**: *Algorithmic Aspects II*                                                         | 
+| 12:00 - 14:30       | Lunch + Discussions                                                                                  | 
+| 14:30 - 15:30       | **Stevan Gajovic**: *Computing p-adic heights on hyperelliptic curves and linear quadratic Chabauty* | 
+| 15:30 - 16:00       | Coffee break                                                                                         |
+| 16:00 - 17:00       | **Netan Dogra**: *Nonabelian Chabauty V: The Jacobian strikes back*                                  | 
+| 17:10 - 17:50       | **David Corwin**: *tba*                                                                              |
+| 19:00 -             | Workshop Dinner at [Brauhaus Vetters](https://www.brauhaus-vetter.de/en)                             |
+
+##### Friday
+
+| Time           |                                                                                      | 
+| -------------- | ------------------------------------------------------------------------------------ |  
+| 09:30 - 10:30  | **Enis Kaya**: *Computing Schneider $p$-adic heights on hyperelliptic Mumford curves* | 
+| 10:30 - 11:00  | Coffee break                                                                         |
+| 11:00 - 12:00  | **Oana Padurariu**: *Rational points on modular star quotients of genus two*         |
+| 12:15 - 13:15  | **Martin Lüdtke**: *Linear and quadratic Chabauty for affine hyperbolic curves*      | 
+| 13:15 -   | Lunch                                                                                     | 
