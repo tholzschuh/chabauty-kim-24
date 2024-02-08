@@ -14,3 +14,5 @@ gallery_statistic:
 
 The deadline for registration was 10/12/2023.
 If you would still like to participate, send us an email to *workshop-chabauty[at]mathi.uni-heidelberg.de*.
+
+[Here](https://raw.githubusercontent.com/tholzschuh/uni-files/master/workshops/chabauty-kim-24/reimbursement_en.pdf) is the document necessary for reimbursement.
