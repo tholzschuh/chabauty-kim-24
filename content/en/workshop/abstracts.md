@@ -24,7 +24,9 @@ gallery_statistic:
 
     The Chabauty--Coleman--Kim is sometimes characterised as an attempt to circumvent the use of the Jacobian in the calculation of the rational points of a curve $X$. In this talk I will try to explain some (perhaps under-appreciated) ways in which explicit calculations with algebraic cycles are necessary to use Chabauty--Coleman--Kim to determine rational points. I will focus on the example of the relevance of the Albanese kernel of $\operatorname{CH}^{2} (X \times X)$ in the calculation of the 'full' $X(\mathbb{Q}p)_{2}$ (not just the part involving $p$-adic heights). Finally, I will explain how these difficulties can be overcome in the case of hyperelliptic curves, and explain some work in progress with Alex Best which gives new instances of curves for which Chabauty--Coleman--Kim can be used to determine $X(\mathbb{Q})$.
 
-- **David Corwin**: *tba.*
+- **David Corwin**: *Beyond Quadratic Chabauty: Tannakian Selmer Varieties and $p$-adic Periods*
+
+    Kim's diagram provides a general framework for studying and bounding rational points on hyperbolic curves. However, it's not clear how to compute all the maps in the diagram in general. Quadratic Chabauty relies on the bilinearity of $p$-adic height pairings to compute. Until recently, the only work beyond the quadratic setting was in the case of $\mathbb{P}^{1} - 0,1, \infty $, which relied on the Tannakian category of mixed Tate motives of Deligne--Goncharov and the $p$-adic period map of Chatzistamatiou--Unver. In general, there is no known abelian category of mixed motives, so a substitute must be used. In this talk, I explain how to extend this Tannakian approach to *all* Selmer varieties using either Galois representations or motivic structures, as well as a $p$-adic period map of the author and Dan-Cohen that allows one to compute the localization map from the local to global Selmer varieties.
 
 - **Enis Kaya**: *Computing Schneider $p$-adic heights on hyperelliptic Mumford curves*
 

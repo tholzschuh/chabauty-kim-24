@@ -35,7 +35,7 @@ gallery_statistic:
 | 14:30 - 15:30       | **Stevan Gajovic**: *Computing p-adic heights on hyperelliptic curves and linear quadratic Chabauty* | 
 | 15:30 - 16:00       | Coffee break                                                                                         |
 | 16:00 - 17:00       | **Netan Dogra**: *Nonabelian Chabauty V: The Jacobian strikes back*                                  | 
-| 17:10 - 17:50       | **David Corwin**: *tba*                                                                              |
+| 17:10 - 17:50       | **David Corwin**: *Beyond Quadratic Chabauty: Tannakian Selmer Varieties and $p$-adic Periods*                                                                              |
 | 19:00 -             | Workshop Dinner at [Brauhaus Vetters](https://www.brauhaus-vetter.de/en)                             |
 
 ##### Friday
