@@ -12,6 +12,10 @@ gallery_statistic:
   value: '*value3*'
 ---
 
+- **Steffen Müller**: *Algorithmic Aspects of Chabauty*
+
+    I will discuss computational tools that make it possible to compute rational (or integral) points in practice using some instances of the Chabauty-Kim method. In particular, I will explain algorithms of Balakrishnan et al. to calculate Coleman integrals via reduction in $p$-adic cohomology. I will also discuss how to compute rational points using the quadratic Chabauty method due to Balakrishnan and Dogra, the simplest non-abelian instance of Chabauty-Kim.
+
 - **Michael Stoll**: *Selmer Group Chabauty*
 
     Frequently, the bottleneck in a (classical) Chabauty computation is the necessity to find generators of a subgroup of finite index of the Mordell-Weil group, as these points may be large and therefore hard to find. "Selmer Group Chabauty" is an approach to avoid this problem by using a suitable Selmer group as a proxy for the Mordell-Weil group, but is not guaranteed to work in all cases when the rank is less than the genus. I will explain the underlying ideas and give some examples.

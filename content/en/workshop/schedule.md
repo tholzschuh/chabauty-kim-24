@@ -16,6 +16,7 @@ gallery_statistic:
 
 | Time           |                                                       | 
 | -------------- | ----------------------------------------------------- |  
+| 08:30 - 09:30  | Registration                                          |
 | 09:30 - 10:30  | **Martin Lüdtke**: *Foundations of Chabauty--Kim I*   | 
 | 10:30 - 11:00  | Coffee break                                          |
 | 11:00 - 12:00  | **Martin Lüdtke**: *Foundations of Chabauty--Kim II*  | 
@@ -28,9 +29,9 @@ gallery_statistic:
 
 | Time                |                                                                                                      | 
 | ------------------- | ---------------------------------------------------------------------------------------------------- |  
-| 09:30 - 10:30       | **Steffen Müller**: *Algorithmic Aspects I*                                                          | 
+| 09:30 - 10:30       | **Steffen Müller**: *Algorithmic Aspects of Chabauty I*                                              | 
 | 10:30 - 11:00       | Coffee break                                                                                         |
-| 11:00 - 12:00       | **Steffen Müller**: *Algorithmic Aspects II*                                                         | 
+| 11:00 - 12:00       | **Steffen Müller**: *Algorithmic Aspects of Chabauty II*                                             | 
 | 12:00 - 14:30       | Lunch + Discussions                                                                                  | 
 | 14:30 - 15:30       | **Stevan Gajovic**: *Computing p-adic heights on hyperelliptic curves and linear quadratic Chabauty* | 
 | 15:30 - 16:00       | Coffee break                                                                                         |
