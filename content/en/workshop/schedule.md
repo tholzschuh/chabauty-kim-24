@@ -14,16 +14,16 @@ gallery_statistic:
 
 ##### Wednesday
 
-| Time           |                                                       | 
-| -------------- | ----------------------------------------------------- |  
-| 08:30 - 09:30  | Registration                                          |
-| 09:30 - 10:30  | **Martin Lüdtke**: *Foundations of Chabauty--Kim I*   | 
-| 10:30 - 11:00  | Coffee break                                          |
-| 11:00 - 12:00  | **Martin Lüdtke**: *Foundations of Chabauty--Kim II*  | 
-| 12:00 - 15:00  | Lunch + Discussions                                   | 
-| 15:00 - 16:00  | Exercise Session                                      | 
-| 16:00 - 16:30  | Coffee break                                          |
-| 16:30 - 17:30  | **Michael Stoll**: *Selmer Group Chabauty*            | 
+| Time           |                                                                                                                                 | 
+| -------------- | --------------------------------------------------------------------------------------------------------------------------------|  
+| 08:30 - 09:30  | Registration                                                                                                                    |
+| 09:30 - 10:30  | **Martin Lüdtke**: *Foundations of Chabauty--Kim I*                                                                             | 
+| 10:30 - 11:00  | Coffee break                                                                                                                    |
+| 11:00 - 12:00  | **Martin Lüdtke**: *Foundations of Chabauty--Kim II*                                                                            | 
+| 12:00 - 15:00  | Lunch + Discussions                                                                                                             | 
+| 15:00 - 16:00  | Exercise Session [sheet](https://raw.githubusercontent.com/tholzschuh/uni-files/master/workshops/chabauty-kim-24/exercises.pdf) | 
+| 16:00 - 16:30  | Coffee break                                                                                                                    |
+| 16:30 - 17:30  | **Michael Stoll**: *Selmer Group Chabauty*                                                                                      | 
 
 ##### Thursday
 
@@ -41,10 +41,10 @@ gallery_statistic:
 
 ##### Friday
 
-| Time           |                                                                                      | 
-| -------------- | ------------------------------------------------------------------------------------ |  
+| Time           |                                                                                       | 
+| -------------- | --------------------------------------------------------------------------------------|  
 | 09:30 - 10:30  | **Enis Kaya**: *Computing Schneider $p$-adic heights on hyperelliptic Mumford curves* | 
-| 10:30 - 11:00  | Coffee break                                                                         |
-| 11:00 - 12:00  | **Oana Padurariu**: *Rational points on modular star quotients of genus two*         |
-| 12:15 - 13:15  | **Martin Lüdtke**: *Linear and quadratic Chabauty for affine hyperbolic curves*      | 
-| 13:15 -   | Lunch                                                                                     | 
+| 10:30 - 11:00  | Coffee break                                                                          |
+| 11:00 - 12:00  | **Oana Padurariu**: *Rational points on modular star quotients of genus two*          |
+| 12:15 - 13:15  | **Martin Lüdtke**: *Linear and quadratic Chabauty for affine hyperbolic curves*       | 
+| 13:15 -   | Lunch                                                                                      | 
