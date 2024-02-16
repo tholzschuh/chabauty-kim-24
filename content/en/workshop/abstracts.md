@@ -44,4 +44,4 @@ gallery_statistic:
 
 - **Martin Lüdtke**: *Linear and quadratic Chabauty for affine hyperbolic curves*
 
-    For a smooth projective hyperbolic curve the classical Chabauty method applies whenever the rank-genus inequality $g - r > 0$ holds; the quadratic Chabauty method applies whenever $g + \rho - r > 0$ holds, where $\rho$ is the Picard number of the Jacobian. I will present the analogous inequalities for affine hyperbolic curves and explain how they can be used to obtain effective bounds on the number of $S$-integral points. This is joint work with M. Leonhardt and J. S. Müller.
+    For a smooth projective hyperbolic curve the classical Chabauty method applies whenever the rank-genus inequality $g - r > 0$ holds; the quadratic Chabauty method applies whenever $g - r + \rho - 1 > 0$ holds, where $\rho$ is the Picard number of the Jacobian. I will present the analogous inequalities for affine hyperbolic curves and explain how they can be used to obtain effective bounds on the number of $S$-integral points. This is joint work with M. Leonhardt and J. S. Müller.
