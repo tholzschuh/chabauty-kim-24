@@ -33,7 +33,7 @@ gallery_statistic:
 | 10:30 - 11:00       | Coffee break                                                                                         |
 | 11:00 - 12:00       | **Steffen Müller**: *Algorithmic Aspects of Chabauty II*                                             | 
 | 12:00 - 14:30       | Lunch + Discussions                                                                                  | 
-| 14:30 - 15:30       | **Stevan Gajovic**: *Computing p-adic heights on hyperelliptic curves and linear quadratic Chabauty* | 
+| 14:30 - 15:30       | **Stevan Gajovic**: *Computing p-adic heights on hyperelliptic curves and linear quadratic Chabauty* [notes](https://raw.githubusercontent.com/tholzschuh/uni-files/master/workshops/chabauty-kim-24/vortraege/gajovic_notes.pdf)| 
 | 15:30 - 16:00       | Coffee break                                                                                         |
 | 16:00 - 17:00       | **Netan Dogra**: *Nonabelian Chabauty V: The Jacobian strikes back*                                  | 
 | 17:10 - 17:50       | **David Corwin**: *Beyond Quadratic Chabauty: Tannakian Selmer Varieties and $p$-adic Periods*                                                                              |
